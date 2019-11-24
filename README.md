@@ -3,4 +3,5 @@ Lab 10- Chocolate Pizza
 
 Contributors:
 
-Cas Olejniczak
+- Cas Olejniczak
+- Madison Stehle
